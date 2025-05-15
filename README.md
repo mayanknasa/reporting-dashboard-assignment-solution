@@ -14,8 +14,8 @@ A modern, responsive dashboard application built with React and Tailwind CSS, fe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/voiceplug-dashboard.git
-   cd voiceplug-dashboard
+   git clone https://github.com/mayanknasa/reporting-dashboard-assignment-solution.git
+   cd reporting-dashboard-assignment-solution
    ```
 
 2. **Install dependencies**
@@ -40,7 +40,7 @@ A modern, responsive dashboard application built with React and Tailwind CSS, fe
 
 ## Design Decisions
 
-The VoicePlug Dashboard was designed with a focus on user experience and performance. The application uses a modern tech stack including React for component-based architecture, Tailwind CSS for utility-first styling, and Highcharts for data visualization. The design emphasizes clean, minimalist aesthetics while maintaining functionality, with careful attention to responsive design principles to ensure a seamless experience across all devices.
+The Reporting Dashboard was designed with a focus on user experience and performance. The application uses a modern tech stack including React for component-based architecture, Tailwind CSS for utility-first styling, and Highcharts for data visualization. The design emphasizes clean, minimalist aesthetics while maintaining functionality, with careful attention to responsive design principles to ensure a seamless experience across all devices.
 
 Key design choices include:
 - Light theme by default for better readability and reduced eye strain
