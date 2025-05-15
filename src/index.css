@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+  }
+}
+
+/* Base styles */
+html {
+  @apply bg-white text-gray-900;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  @apply bg-white text-gray-900;
+}
+
+/* Component styles */
+.glassmorphism {
+  @apply bg-white bg-opacity-10 backdrop-blur-lg border border-opacity-20 border-white;
+}
+
+/* Smooth transitions */
+* {
+  @apply transition-colors duration-300;
+}
